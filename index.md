@@ -3,3 +3,6 @@
 
 
 This is my first markdown sentence
+``` python
+greetings = "Hello, world!"
+```
